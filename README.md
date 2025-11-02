@@ -11,6 +11,8 @@
 
 - [Лабораторная 3: Облачные сети (VPC, Subnets, IGW, NAT, RT, SG, EC2)](lab3_aws_vpc_networking/) — **`lab3_aws_vpc_networking/`**
 
+- [Лабораторная 4: Amazon S3 (публичные/приватные бакеты, Versioning, Lifecycle, Static Website Hosting)](lab4_s3_storage/) — **`lab4_s3_storage/`**
+
 ---
 
 ## 🛠 **Как начать работу?**
