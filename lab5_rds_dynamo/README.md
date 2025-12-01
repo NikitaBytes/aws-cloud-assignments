@@ -79,8 +79,7 @@
     - EC2-инстанс для приложения.
   - Использует существующую VPC и подсети (их идентификаторы передаются через переменные).
 
-Сюда вставляется схема архитектуры (VPC + RDS + EC2 + SG + master/replica)
-
+  
 > ![Общая архитектура: VPC, RDS master + read replica, EC2 с приложением, Security Groups и направление трафика](screenshots/lab5_00__architecture_overview.png)
 
 ---
