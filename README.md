@@ -15,6 +15,8 @@
 
 - [Лабораторная 5: Облачные базы данных в AWS (RDS MySQL, Read Replica, EC2, Terraform, простое веб-приложение)](lab5_rds_dynamo/) — **`lab5_rds_dynamo/`**
 
+- [Лабораторная 6: Балансирование нагрузки и авто-масштабирование (EC2, ELB, Auto Scaling, CloudWatch)](https://github.com/NikitaBytes/aws-cloud-assignments/tree/main/lab6_elb_autoscaling/) — **`lab6_elb_autoscaling/`**
+
 ---
 
 ## 🛠 **Как начать работу?**
